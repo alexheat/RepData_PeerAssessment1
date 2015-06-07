@@ -86,6 +86,8 @@ axis(side = 2, at = c(50,100,150,200))
 axis(side = 1, at = seq(0,2400,200))
 
 ```
+
+
 I can see several differences between the trends on weekdays and weekends. On weekdays the steps begin around 5:30 AM, and on the weekends they do not reach that same level until around 8:00 am. 
 
 Weekends and weekdays both spike around 8:15 am, though on weekends there are secondary spikes around noon and 4:00 PM. And on weekends activity is very low after 9:00 PM but on weekends there is a final skike around 10:00 PM.
